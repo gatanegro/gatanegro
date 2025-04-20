@@ -28,4 +28,4 @@ This work is provided "as-is" without any warranties or guarantees. The author(s
 For inquiries or permissions, please contact: [dhelamay@protonmail.com]
  License
 This work is licensed under the GNU General Public License v4 as published on Zenodo.  
-For work hosted on GitHub, additional terms and restrictions apply. See the License /Custom License file for details.
+For work hosted on GitHub, additional terms and restrictions apply. See the [LICENSE](https://github.com/gatanegro/gatanegro/blob/main/License.md) file for details.
