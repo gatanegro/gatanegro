@@ -22,7 +22,7 @@ In the COM framework, energy is the only fundamental reality. There is no vacuum
 
 The COM framework introduces key constants that govern the scaling and relationships of energy patterns:
 
-- **LZ = 1.23498**: The fundamental scaling constant that relates different octave layers of reality
+- **LZ = 1.23498228**: The fundamental scaling constant that relates different octave layers of reality
 - **HQS = 23.5% of LZ**: The Harmonic Quantum Scalar that governs specific energy interactions
 
 ### Octave Structuring
