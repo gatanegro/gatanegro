@@ -1,7 +1,15 @@
-
-
-
 # Welcome to My Profile 👋
+
+## 📢 Join the Research Community!
+
+Discussion, questions, and collaboration for all gatanegro projects are hosted in our central community repo:  
+👉 [gatanegro/community](https://github.com/gatanegro/community/discussions)
+
+- Share discoveries, suggestions, and ideas.
+- Ask questions about the research.
+- Fork projects to continue your own work—direct changes are not permitted.
+
+**You must have a GitHub account to participate in discussions.**
 
 ## About Me
 I am redefining the foundations of science through groundbreaking mathematical and physical frameworks. My work focuses on new axioms, theorems, equations, redefinitions, simulations, prototypes, for physics and innovative mathematical models based on nonlinear - dynamic Collatz Octave Model (COM) and UOFT (Unified Oscillatory Field Theory (my own).
