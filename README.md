@@ -72,7 +72,7 @@ Reality forms "capsule structures" or "bubbles" at quantum, Newtonian, and cosmi
 This work is licensed under the GNU General Public License v4 as published on Zenodo.  
 For work hosted on GitHub, additional terms and restrictions apply. See the [LICENSE](https://github.com/gatanegro/gatanegro/blob/main/License.md) file for details.
 
-## Download and Run
+## Download and Run Releases
 
 1. Go to the [Releases](https://github.com/gatanegro/bridge-formula/releases) section of this repository.
 2. Download the latest distribution file (e.g., `BridgeFormulaInstaller.exe`, `.zip`, `.pdf`, etc.).
